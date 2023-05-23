@@ -32,8 +32,8 @@
       },
       {
          "id": 11,
-         "titulo": "Pro Player de CS:GO",
-         "descricao": "O pai aqui dava muita bala.",
+         "titulo": "Teste",
+         "descricao": "Teste testando 1, 2, 3.",
          "tipo": "profissional",
          "anoInicio": "2014",
          "anoFim": "2015"
@@ -42,9 +42,9 @@
    "portfolio": [
       {
          "id": 1,
-         "titulo": "Densevolver de Software",
-         "imagem": "https://github.com/italocarlosbezerra.png",
-         "link": "https://github.com/italocarlosbezerra"
+         "titulo": "Portfolio",
+         "imagem": "https://github.com/italocarlosbezerra/portfolio-website/raw/main/github/portfolio.png",
+         "link": "https://github.com/italocarlosbezerra/portfolio-responsivo"
       },
       {
          "id": 2,
